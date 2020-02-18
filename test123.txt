@@ -1,4 +1,8 @@
 hooooello,world
 enenen
 123
+<<<<<<< HEAD
 8888
+=======
+中啊中啊
+>>>>>>> fb1dd6a113c8ab0f45f9c0320df0f3cda2c2f1a3
